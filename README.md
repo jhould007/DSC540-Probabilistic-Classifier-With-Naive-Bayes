@@ -1,5 +1,5 @@
 # DSC540-Probabilistic-Classifier-With-Naive-Bayes
-An assignment for DSC540 (Machine Learning for Data Science) at GCU that focused on building an efficient classification model powered by the Naive Bayes algorithm.
+An assignment for DSC540 (Machine Learning for Data Science) at GCU that focused on building an efficient classification model powered by the Naive Bayes algorithm. The specific task was to perform sentiment analysis on a dataset of tweets about ChatGPT over a 1-month period and classify them as positive, neutral, or negative.
 
 Check out the full report [here.](https://github.com/jhould007/DSC540-Probabilistic-Classifier-With-Naive-Bayes/blob/master/Probabilistic%20Classifier%20with%20Naive%20Bayes.ipynb)
 
